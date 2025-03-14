@@ -26,3 +26,6 @@ https://github.com/viniskykumar/TETRISBYSKY/assets/140748677/36605039-3947-4235-
 - **Java Programming:** Implement game logic and mechanics using Java programming language.
 - **XML Layouts:** Design UI layouts and components using XML for Android.
 
+### 🔗 Project Link
+[GitHub Repository](https://github.com/viniskykumar/TETRISBYSKY)
+
